@@ -1,2 +1,2 @@
 # Prj_Login_Java
-Projeto em desenvolvimento (Crud)
+Projeto desenvolvido em universidade feito por mim para entendidemento melhor de POO
